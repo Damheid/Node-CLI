@@ -1,0 +1,25 @@
+{
+  "name": "node-cli",
+  "version": "1.0.0",
+  "description": "Tutorial on how to create a Node CLI",
+  "main": "index.js",
+  "bin": {
+    "outside": "bin/outside"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Damheid/Node-CLI.git"
+  },
+  "author": "Adam Heierich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Damheid/Node-CLI/issues"
+  },
+  "homepage": "https://github.com/Damheid/Node-CLI#readme",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
