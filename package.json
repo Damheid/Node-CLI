@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/Damheid/Node-CLI#readme",
   "dependencies": {
-    "minimist": "^1.2.0"
+    "axios": "^0.18.0",
+    "minimist": "^1.2.0",
+    "ora": "^3.0.0"
   }
 }
